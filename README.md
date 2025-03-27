@@ -25,7 +25,8 @@ This Power BI dashboard presents insights from a historical Olympics dataset, sh
 - **Excel** – Initial data cleaning
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Dashboard%20Preview.png)
+
 
 
 ## 📌 Purpose
